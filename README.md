@@ -32,7 +32,7 @@ Programming Language: Python
 Libraries: TensorFlow, Keras, OpenCV, NumPy
 
 ## System Architecture
-![image](https://github.com/user-attachments/assets/3f881cc4-d7e3-4b90-955b-3234e7577348)
+![IPF_Architecture_Diagram](https://github.com/user-attachments/assets/4316c9e7-747b-43b9-977c-71c6a6a2f8ba)
 
 ## Output
 ![image](https://github.com/user-attachments/assets/f785aa37-d8d1-47ed-aecd-5641a5295823)
